@@ -1,0 +1,14 @@
+//
+//  main.c
+//  MutexForThreadSync
+//
+//  Created by Matt Ahmad on 2022-10-20.
+//
+
+#include <stdio.h>
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    printf("Hello, World!\n");
+    return 0;
+}
